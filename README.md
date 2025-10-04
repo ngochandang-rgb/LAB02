@@ -10,10 +10,10 @@ Các tài liệu thiết kế hệ thống (UML/ERD) được lưu trữ trong t
 
 | Loại Biểu đồ | Mô tả | File |
 | :--- | :--- | :--- |
-| **ERD** | Thiết kế Cơ sở dữ liệu | [Xem ERD](docs/1000036060.jpg) |
-| **Use Case Diagram** | Tổng quan về các chức năng và tác nhân hệ thống | [Xem Use Case](docs/1000036057.jpg) |
+| **ERD** | Thiết kế Cơ sở dữ liệu | ![ERD](artifacts/ERD.jpg) |
+| **Use Case Diagram** | Tổng quan về các chức năng và tác nhân hệ thống | artifacts/Use case.jpg |
 | **Sequence Diagram (Reservation Flow)** | Luồng nghiệp vụ Đặt phòng trực tuyến | [Xem Sequence Diagram - Reservation](docs/1000036059.jpg) |
-| **Sequence Diagram (Check-in/out Flow)** | Luồng nghiệp vụ Check-in & Check-out tại lễ tân | [Xem Sequence Diagram - Check-in/out](docs/1000036058.jpg) |
+| **Sequence Diagram (Check-in/out Flow)** | Luồng nghiệp vụ Check-in & Check-out tại lễ tân | (artifacts/Sequence_Diagram_Checkin_Checkout.jpg) |
 
 ---
 

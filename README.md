@@ -36,7 +36,7 @@ Dự án được phân chia và mô phỏng hoàn thành qua **4 Sprint** theo 
 
 Dự án đã mô phỏng và hoàn thành **tất cả 9 User Story** qua **4 Sprint**, theo đúng quy trình **Agile Scrum** trên Jira.
 
-* **🔗 Link Project Jira:** [👉 Dán link Jira project của bạn tại đây](https://dhynhann155.atlassian.net/jira/software/projects/SCRUM/summary)
+* **🔗 Link Project Jira:** [👉 Link Jira project tại đây](https://dhynhann155.atlassian.net/jira/software/projects/SCRUM/summary)
 
 * **📸 Tổng quan các Task (9/9 Done):**
 

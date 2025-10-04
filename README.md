@@ -6,15 +6,14 @@ Dự án này được phát triển như một mô hình học tập cho môn *
 
 ## 📐 Phần 1: Phân tích & Thiết kế Hệ thống
 
-Các tài liệu thiết kế hệ thống (UML/ERD) được lưu trữ trong thư mục [`/docs`](docs/) của Repository này.
+Các tài liệu thiết kế hệ thống (UML/ERD) được lưu trữ trong thư mục [`/artifacts`](artifacts/) của Repository này.
 
-| Loại Biểu đồ | Mô tả | File |
+| Tài liệu | Mô tả | Liên kết |
 | :--- | :--- | :--- |
-| **ERD** | Thiết kế Cơ sở dữ liệu | [Xem ERD](docs/1000036060.jpg) |
-| **Use Case Diagram** | Tổng quan về các chức năng và tác nhân hệ thống | [Xem Use Case](docs/1000036057.jpg) |
-| **Sequence Diagram (Reservation Flow)** | Luồng nghiệp vụ Đặt phòng trực tuyến | [Xem Sequence Diagram - Reservation](docs/1000036059.jpg) |
-| **Sequence Diagram (Check-in/out Flow)** | Luồng nghiệp vụ Check-in & Check-out tại lễ tân | [Xem Sequence Diagram - Check-in/out](docs/1000036058.jpg) |
-
+| **ERD** | Thiết kế cơ sở dữ liệu | [📄 Xem ERD](artifacts/ERD.jpg) |
+| **Use Case Diagram** | Tổng quan chức năng & tác nhân | [📄 Xem Use Case](artifacts/Use case.jpg) |
+| **Sequence Diagram (Reservation)** | Luồng nghiệp vụ Đặt phòng | [📄 Xem Sequence – Reservation](artifacts/Sequence Diagram - Reservation Flow.jpg) |
+| **Sequence Diagram (Check-in/out)** | Luồng nghiệp vụ Check-in & Check-out | [📄 Xem Sequence – Check-in/out](artifacts/Sequence Diagram - Check-in-out.jpg) |
 ---
 
 ## 🧩 Phần 2: Triển khai Agile Scrum (Jira)

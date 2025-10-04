@@ -74,3 +74,5 @@ Jira được liên kết trực tiếp với Repository GitHub để đồng b�
 🎓 **Môn học:** Quản lý Dự án – LAB 02  
 🏫 **Ngành:** Công nghệ Đa phương tiện  
 🕓 **Ngày hoàn thành:** Tháng 10 / 2025
+* **FINAL CHECK:** Hoàn tất liên kết tất cả công việc với Jira.
+* **FINAL SUBMISSION:** Tất cả các Artifacts và công việc Jira đã hoàn thành và được đồng bộ thành công.

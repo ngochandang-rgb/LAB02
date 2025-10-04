@@ -6,7 +6,7 @@ Dự án này được phát triển như một mô hình học tập cho môn *
 
 ## 📐 Phần 1: Phân tích & Thiết kế Hệ thống
 
-Các tài liệu thiết kế hệ thống (UML/ERD) được lưu trữ trong thư mục [`/docs`](docs/) của Repository này.
+Các tài liệu thiết kế hệ thống (UML/ERD) được lưu trữ trong thư mục [`/artifacts`](artifacts/) của Repository này.
 
 | Loại Biểu đồ | Mô tả | File |
 | :--- | :--- | :--- |
